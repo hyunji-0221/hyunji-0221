@@ -3,7 +3,7 @@
 </p>
 
 <a href="https://github.com/hyunji-0221">![Hyunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunji-0221&text_color=7F899C&icon_color=7F899C&show_icons=true)</a>
-FAECE1
+
 <!--
 **hyunji-0221/hyunji-0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
