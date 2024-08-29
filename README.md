@@ -1,7 +1,9 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&&color=FAECE1&height=300&section=header&text=Hyunji's%20GitHub&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Web%20BackEnd%20Developer%20Hyunji's%20GitHub%20!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&&color=7F899C&height=300&section=header&text=Hyunji's%20GitHub&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Web%20BackEnd%20Developer%20Hyunji's%20GitHub%20!&descAlignY=51&descAlign=62"/>
 </p>
 
+<a href="https://github.com/hyunji-0221">![Hyunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunji-0221&text_color=7F899C&icon_color=7F899C&show_icons=true)</a>
+FAECE1
 <!--
 **hyunji-0221/hyunji-0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
